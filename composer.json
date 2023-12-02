@@ -1,0 +1,8 @@
+{
+  "name": "core77/vimeo_video",
+  "description": "A block to embed videos from Vimeo.",
+  "version": "1.0.0",
+  "type": "concrete5-package",
+  "license": "MIT",
+  "minimum-stability": "stable"
+}
