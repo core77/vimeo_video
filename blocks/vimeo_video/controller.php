@@ -26,7 +26,7 @@ class Controller extends BlockController
 
     public function getBlockTypeDescription()
     {
-        return t('Ein Vimeo Video auf der Seite einbetten.');
+        return t('Embed a video from Vimeo.');
     }
 
     public function view()

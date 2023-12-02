@@ -19,7 +19,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-        return t('A block to embed videos from Vimeo.');
+        return t('Embed a video from Vimeo.');
     }
 
     public function install()

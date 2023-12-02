@@ -1,4 +1,4 @@
-# Vimeo Video package for Concrete CMS
+# Vimeo Video block for Concrete CMS
 
 Embed a video on a page.
 
